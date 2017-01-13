@@ -1,0 +1,8 @@
+C:\Users\Elena\Desktop\Persona_3F\Persona_3F\bin\Debug\Persona_3F.exe.config
+C:\Users\Elena\Desktop\Persona_3F\Persona_3F\bin\Debug\Persona_3F.exe
+C:\Users\Elena\Desktop\Persona_3F\Persona_3F\bin\Debug\Persona_3F.pdb
+C:\Users\Elena\Desktop\Persona_3F\Persona_3F\obj\Debug\Persona_3F.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Desktop\Persona_3F\Persona_3F\obj\Debug\Persona_3F.Properties.Resources.resources
+C:\Users\Elena\Desktop\Persona_3F\Persona_3F\obj\Debug\Persona_3F.csproj.GenerateResource.Cache
+C:\Users\Elena\Desktop\Persona_3F\Persona_3F\obj\Debug\Persona_3F.exe
+C:\Users\Elena\Desktop\Persona_3F\Persona_3F\obj\Debug\Persona_3F.pdb

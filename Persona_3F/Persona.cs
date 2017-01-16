@@ -10,7 +10,9 @@ namespace Persona_3F
     {
         public Persona(string nome, string cognome, int anni)
             {
-
+            this.nome = nome;
+            this.cognome = cognome;
+            this.anni = anni;
             }
 
         public string nome { get; set; }
@@ -22,7 +24,7 @@ namespace Persona_3F
         {
             set
             {
-                if (value < 0) value = 1;
+                if (value <= 0) value = 1;
                 _anni = value;
             }
             get
@@ -31,14 +33,14 @@ namespace Persona_3F
             }
         }
 
-        private string _codicefiscale;
-        public string codicefiscale { get { return nome + cognome + anni; } }
+      
+        public string codicefiscale { get { return nome + cognome + anni.ToString(); } } //To.String funzione propria degli object, converte il valore da int a string
 
         public string describe()
         {
-            string output = "Nome: " + nome + "\r\n";
-            output += "Cognome: " + cognome + "\r\n";
-            output += "Anni: " + anni + "\r\n";
+            string output = "Nome: " + nome + System.Environment.NewLine ; //carattere per andare a capo adatto a tutti i sistemi
+            output += "Cognome: " + cognome + System.Environment.NewLine;
+            output += "Anni: " + anni + System.Environment.NewLine;
 
             return output;
         }

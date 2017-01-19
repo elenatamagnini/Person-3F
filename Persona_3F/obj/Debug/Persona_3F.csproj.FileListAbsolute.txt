@@ -14,3 +14,11 @@ Z:\Person-3F\Persona_3F\bin\Debug\Persona_3F.pdb
 Z:\Person-3F\Persona_3F\obj\Debug\Persona_3F.csprojResolveAssemblyReference.cache
 Z:\Person-3F\Persona_3F\obj\Debug\Persona_3F.Properties.Resources.resources
 Z:\Person-3F\Persona_3F\obj\Debug\Persona_3F.csproj.GenerateResource.Cache
+C:\Users\Elena\Desktop\LICEO\INFORMATICA\C#\Person-3F\Persona_3F\bin\Debug\Persona_3F.exe.config
+C:\Users\Elena\Desktop\LICEO\INFORMATICA\C#\Person-3F\Persona_3F\obj\Debug\Persona_3F.exe
+C:\Users\Elena\Desktop\LICEO\INFORMATICA\C#\Person-3F\Persona_3F\obj\Debug\Persona_3F.pdb
+C:\Users\Elena\Desktop\LICEO\INFORMATICA\C#\Person-3F\Persona_3F\obj\Debug\Persona_3F.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Desktop\LICEO\INFORMATICA\C#\Person-3F\Persona_3F\obj\Debug\Persona_3F.Properties.Resources.resources
+C:\Users\Elena\Desktop\LICEO\INFORMATICA\C#\Person-3F\Persona_3F\obj\Debug\Persona_3F.csproj.GenerateResource.Cache
+C:\Users\Elena\Desktop\LICEO\INFORMATICA\C#\Person-3F\Persona_3F\bin\Debug\Persona_3F.exe
+C:\Users\Elena\Desktop\LICEO\INFORMATICA\C#\Person-3F\Persona_3F\bin\Debug\Persona_3F.pdb

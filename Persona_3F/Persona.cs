@@ -8,12 +8,6 @@ namespace Persona_3F
 {
     class Persona
     {
-        public Persona(string nome, string cognome, int anni)
-            {
-            this.nome = nome;
-            this.cognome = cognome;
-            this.anni = anni;
-            }
 
         public string nome { get; set; }
 
@@ -36,13 +30,26 @@ namespace Persona_3F
       
         public string codicefiscale { get { return nome + cognome + anni.ToString(); } } //To.String funzione propria degli object, converte il valore da int a string
 
-        public string describe()
+        public virtual string describe()
         {
-            string output = "Nome: " + nome + System.Environment.NewLine ; //carattere per andare a capo adatto a tutti i sistemi
-            output += "Cognome: " + cognome + System.Environment.NewLine;
-            output += "Anni: " + anni + System.Environment.NewLine;
-
-            return output;
+            return
+               "nome: " + nome + System.Environment.NewLine +
+               "cognome: " + cognome + System.Environment.NewLine +
+               "anni: " + anni.ToString() + System.Environment.NewLine;
+            
         }
+
+        public Persona(string nome, string cognome, int anni)
+        {
+            this.nome = nome;
+            this.cognome = cognome;
+            this.anni = anni;
+        }
+
+        public override string ToString()
+        {
+            return this.nome + " " + this.cognome;
+        }
+
     }
 }

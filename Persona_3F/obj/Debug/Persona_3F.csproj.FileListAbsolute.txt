@@ -22,3 +22,4 @@ C:\Users\Elena\Desktop\LICEO\INFORMATICA\C#\Person-3F\Persona_3F\obj\Debug\Perso
 C:\Users\Elena\Desktop\LICEO\INFORMATICA\C#\Person-3F\Persona_3F\obj\Debug\Persona_3F.csproj.GenerateResource.Cache
 C:\Users\Elena\Desktop\LICEO\INFORMATICA\C#\Person-3F\Persona_3F\bin\Debug\Persona_3F.exe
 C:\Users\Elena\Desktop\LICEO\INFORMATICA\C#\Person-3F\Persona_3F\bin\Debug\Persona_3F.pdb
+C:\Users\Elena\Desktop\LICEO\INFORMATICA\C#\Person-3F\Persona_3F\obj\Debug\Persona_3F.Form1.resources
